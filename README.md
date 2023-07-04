@@ -1,2 +1,2 @@
 # Medical Cost Prediction 
-Construction of a neural network to predict medical cost
+Building a neural network to predict medical costs and analyze the factors that influence them.
